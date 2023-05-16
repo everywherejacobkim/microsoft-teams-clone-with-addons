@@ -2,6 +2,8 @@ import React from 'react';
 import { FaRegBell } from 'react-icons/fa';
 import { BsChatText } from 'react-icons/bs';
 import { IoCalendarOutline } from 'react-icons/io5';
+import { RxLapTimer } from 'react-icons/rx';
+import { MdFiberNew } from 'react-icons/md';
 
 const Sidebar: React.FC = () => {
   return (
@@ -19,6 +21,11 @@ const Sidebar: React.FC = () => {
           <li className="flex flex-col items-center justify-center px-4 py-4 hover:bg-white hover:text-primary hover:cursor-pointer">
               <IoCalendarOutline className="w-6 h-6" />
               <p>Calendar</p>
+          </li>
+          <li className="relative flex flex-col items-center justify-center px-4 py-4 hover:bg-white hover:text-primary hover:cursor-pointer">
+            <RxLapTimer className="w-6 h-6" />
+            <MdFiberNew className="absolute top-1 left-6 w-5 h-5 text-violet-500" />
+              <p>Pomodoro</p>
           </li>
         </ul>
       </nav>
