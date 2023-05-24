@@ -1,20 +1,20 @@
 # Microsoft Teams Clone with Addon Features
 
-This project is a Microsoft Teams clone with additional addon features. It aims to replicate the core functionality of Microsoft Teams while offering extended capabilities through addons. One of the included addons is a customized Pomodoro Timer that allows users to connect with each other while studying and working.
+This project is a clone of Microsoft Teams with additional addon features. Its primary objective is to replicate the core functionality of Microsoft Teams while introducing extended capabilities through addons. The standout feature of this project is the Customized Pomodoro Timer addon, designed to enhance users' productivity and focus through a unique and innovative approach.
 
-## Features
+## Customized Pomodoro Timer addon
 
-- Real-time messaging: Users can send and receive messages in real-time, allowing for seamless communication.
-- Audio and video calling: Users can initiate audio and video calls with other participants, enabling face-to-face conversations.
-- Screen sharing: Participants can share their screens with others during a call or meeting.
-- Channel-based organization: Users can create and join different channels to collaborate with specific teams or groups.
-- File sharing: Users can upload and share files within channels or in private conversations.
-- Customized Pomodoro Timer addon: Users can utilize a customized Pomodoro Timer addon that helps them stay focused and productive. The Pomodoro Timer allows users to set work intervals and breaks, and it provides a synchronized environment where users can connect with each other while studying or working.
+The Customized Pomodoro Timer addon enhances focus and productivity by allowing users to set customizable work intervals and breaks, fostering collaboration and community engagement in a synchronized environment.
 
-### `yarn start`
+The Customized Pomodoro Timer addon offers:
+- Work intervals and breaks: Users can set customizable work intervals and breaks according to their preferences, allowing for personalized productivity sessions.
+- Synchronized work environment: The addon creates a synchronized environment where users can collaborate and work alongside each other, even when remote, fostering accountability and a sense of shared progress.
+- Connection with other users: Users can connect with others using the addon, forming a supportive community for progress sharing, providing encouragement, and engaging in brief discussions during breaks.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Acknowledgements
+
+- Microsoft Teams
+- Pomodoro Technique
 
 
 
